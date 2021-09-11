@@ -6,7 +6,7 @@ By Mouad Morabit, Guy Desaulniers, and  Andrea  Lodi.
 
 ## Running the code
 The project requires **tensorflow 2.0** or a more recent version, as well as Numpy and Keras.  
-A sample of the data is available in the data/ folder, where each file corresponds to a bipartite graph for a column generation iteration.
+A sample of the data is available in the data/ folder, where each file corresponds to a bipartite graph of a column generation iteration.
 You can generate your own data for the problem you want to work on and adjust the parameters in the main code!  
 To launch the code, simply execute the main.py file:
 ```
@@ -29,4 +29,5 @@ doi = {10.1287/trsc.2021.1045}
 ```
 
 ## Questions / Bugs
-Feel free to contact me if you have any questions or want to report any bugs.
+Feel free to contact me if you have any questions or want to report any bugs.  
+mouad.morabit@polymtl.ca
