@@ -4,7 +4,6 @@ import tensorflow.keras as K
 import pathlib
 import os
 import importlib
-import sys
 from DataLoader import *
 from BipartiteGNN import *
 
